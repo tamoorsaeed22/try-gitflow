@@ -1,1 +1,1 @@
-"A good programmer is someone who always looks both ways before crosing a one-way street."
+"A good programmer is someone who always looks both ways before crossing git checkout -b fix-quotes a one-way street." - Doug Linder
